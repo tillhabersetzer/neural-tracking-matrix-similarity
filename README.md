@@ -1,8 +1,8 @@
 # Analysis of the influence of gradual changes in matrix sentence similarity on neural envelope tracking
 
 This repository contains the code and analysis pipelines accompanying the article: **"Analysis of the influence of gradual changes in matrix sentence similarity on neural envelope tracking"**. 
-* **Article:** 
-* **Code archived with Zenodo:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692703.svg)](https://doi.org/10.5281/zenodo.22692703)
+* **Article:** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.64898/2026.09.21.752993v1)
+* **Code archived with Zenodo:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692703.svg?v=1)](https://doi.org/10.5281/zenodo.22692703)
 * **Dataset:** 
 
 ## Software used during Analysis
